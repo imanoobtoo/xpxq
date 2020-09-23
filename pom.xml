@@ -14,5 +14,6 @@
         <module>xpxq-comment</module>
         <module>xpxq-member</module>
         <module>xpxq-note</module>
+        <module>xpxq-common</module>
     </modules>
 </project>
